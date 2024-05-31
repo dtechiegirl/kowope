@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715860045630",
+    "project_id": "kowope-6e4ea",
+    "storage_bucket": "kowope-6e4ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715860045630:android:5acd68cb5ef93403bf866f",
+        "android_client_info": {
+          "package_name": "kowope.savings.app.kowope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_lYpR4f1Vs6xHkF_hxUnrtYnDQ2E00k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
